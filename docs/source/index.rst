@@ -61,10 +61,5 @@ The use of the mclust algorithm requires the rpy2 package (Python) and the mclus
 
 Install SpaTemporal.
 
-.. code-block:: python
-
-   python setup.py build
-   python setup.py install
-
 Citation
 ========
