@@ -59,5 +59,12 @@ The torch-geometric library is also required, please see the installation steps 
 
 The use of the mclust algorithm requires the rpy2 package (Python) and the mclust package (R). See https://pypi.org/project/rpy2/ and https://cran.r-project.org/web/packages/mclust/index.html for detail.
 
+Install SpaTemporal.
+	
+.. code-block:: python
+
+   python setup.py build
+   python setup.py install
+
 Citation
 ========
