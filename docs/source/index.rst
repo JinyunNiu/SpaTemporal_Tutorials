@@ -53,7 +53,7 @@ Install all the required packages.
 
 .. code-block:: python
 
-   pip install -r requiements.txt
+   pip install -r requirements.txt
 
 The torch-geometric library is also required, please see the installation steps in https://github.com/pyg-team/pytorch_geometric#installation
 
