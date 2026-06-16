@@ -44,7 +44,7 @@ It's recommended to create a separate conda environment for running STAligner:
 .. code-block:: python
 
    #create an environment called SpaTemporal
-   conda create -n SpaTemporal python=3.8
+   conda create -n SpaTemporal python=3.9
 
    #activate your environment
    conda activate SpaTemporal
