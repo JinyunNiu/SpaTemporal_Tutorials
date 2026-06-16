@@ -55,9 +55,15 @@ Install all the required packages.
 
    pip install -r requirements.txt
 
-The torch-geometric library is also required, please see the installation steps in https://github.com/pyg-team/pytorch_geometric#installation
+The torch-geometric library is also required, please see the installation steps in https://github.com/pyg-team/pytorch_geometric#installation.
 
 The use of the mclust algorithm requires the rpy2 package (Python) and the mclust package (R). See https://pypi.org/project/rpy2/ and https://cran.r-project.org/web/packages/mclust/index.html for detail.
+
+The scikit-misc is used to support the data preprocessing part of Scanpy. However, version mismatches may cause errors during actual use. Please use the following code to install it:
+
+.. code-block:: python
+
+pip install -i https://test.pypi.org/simple/ "scikit-misc==0.2.0rc1"
 
 Install SpaTemporal.
 	
