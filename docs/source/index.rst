@@ -63,7 +63,7 @@ The scikit-misc is used to support the data preprocessing part of Scanpy. Howeve
 
 .. code-block:: python
 
-pip install -i https://test.pypi.org/simple/ "scikit-misc==0.2.0rc1"
+   pip install -i https://test.pypi.org/simple/ "scikit-misc==0.2.0rc1"
 
 Install SpaTemporal.
 	
