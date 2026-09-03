@@ -37,7 +37,7 @@ First clone the repository.
 .. code-block:: python
 
    https://github.com/JinyunNiu/SpaTemporal.git
-   cd SpaTemporal-main
+   cd SpaTemporal-main/SpaTemporal-main
 
 It's recommended to create a separate conda environment for running STAligner:
 
